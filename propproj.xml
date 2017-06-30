@@ -209,7 +209,6 @@
     <body>
       <div type="edition" xml:id="edition-text" xml:space="preserve">
         <div type="textpart" n="1" xml:id="part1">
-          <div type="textpart" subtype="book" n="1" xml:id="book1">
            <head>Book 1</head>
           
             <div type="textpart" subtype="Poem" n="1" xml:id="book1poem1">
@@ -413,10 +412,11 @@
               </div>
           </div>
         </div>
-        <div type="textpart" n="2" xml:id="part2">
-          <head>Title of Second Part</head>
+        <div type="textpart" n="2" xml:id="poem2">
+
+              <head>Poem 2</head>
           <!--Each new major section (e.g., book, volume) has a new <div>.-->
-        </div>
+        
       </div>
     </body>
     <back>
