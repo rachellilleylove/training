@@ -126,10 +126,11 @@
             <!-- will address this later  -->
           </listWit>
         </div> 
-          <div type="section"  xml:id="editions">
+        <div type="section"  xml:id="sources">
             <head>Sources</head>
             <listBibl>
               <listBibl>
+                
                 <head>Complete Editions</head>
                 <bibl xml:id="Burman" n="Burman">Burman, P. (completed by L. van Santen)
                   (Utrecht, 1780)</bibl>
