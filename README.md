@@ -17,3 +17,4 @@ Start by creating a structure for the poem. You'll have to decide what
 structural elements you want to use. You should be able to (mostly) just copy
 and paste the plain text version into the XML and wrap it in the appropriate
 elements. Then, start encoding the apparatus entries as outlined in the [LDLT Guidelines](https://digitallatin.github.io/guidelines/LDLT-Guidelines.html#apparatus-criticus).
+# PropertiusProject2017
