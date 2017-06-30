@@ -111,7 +111,7 @@
                 </listWit>
             </listWit>
               <listWit>
-              <!-- I'm not sure where this information comes from; it's not fedeli -->
+              <!-- Heyworth material-->
               <head>Codices no longer extant</head>
               <witness xml:id="Ω" n="Ω">
                 <abbr type="siglum ">Ω</abbr> codex archetypus, uel certe codicum N et A/Π et Λ
@@ -135,11 +135,11 @@
       <div type="edition" xml:id="edition-text" xml:space="preserve">
         <div type="textpart" n="1" xml:id="part1">
           <div type="textpart" subtype="book" n="1" xml:id="book1">
-           
+           <head>Book 1</head>
           
             <div type="textpart" subtype="Poem" n="1" xml:id="book1poem1">
           <head>Poem 1</head>
-          <lg met="elegiacCouplets">
+          <lg met="elegiaiccouplets">
                             <lg type="couplet">
                                 <l xml:id="l1.1">
                                     <persName ref="#Cynthia">Cynthia</persName>
@@ -150,7 +150,7 @@
                                 <l xml:id="l1.2">contactum nullis ante cupidinibus</l>
                             </lg>
                         </lg>
-                        <lg met="elegiacCouplets">
+                        <lg met="elegiaiccouplets">
                             <lg type="couplet">
                                 <l xml:id="l1.3">
                                     <app>
@@ -160,7 +160,7 @@
                                 <l xml:id="l1.4">et caput impositis pressit Amor pedibus,</l>
                             </lg>
                         </lg>
-                        <lg met="elegiacCouplets">
+                        <lg met="elegiaiccouplets">
                             <lg type="couplet">
                                 <l xml:id="l1.5">donec me <app>
                                         <lem wit="#A #N #P #Vo">docuit castas</lem>
@@ -174,7 +174,7 @@
                                 <l xml:id="l1.6">improbus, et nullo vivere consilio.</l>
                             </lg>
                         </lg>
-                        <lg met="elegiacCouplets">
+                        <lg met="elegiaiccouplets">
                             <lg type="couplet">
                                 <l xml:id="l1.7">ei mihi, iam <app>
                                         <lem wit="#N">toto furor hic non deficit anno,</lem>
@@ -186,7 +186,7 @@
                                 <l xml:id="l1.8">cum tamen adversos cogor habere deos.</l>
                             </lg>
                         </lg>
-                        <lg met="elegiacCouplets">
+                        <lg met="elegiaiccouplets">
                             <lg type="couplet">
                                 <l xml:id="l1.9">
                                     <app>
@@ -205,14 +205,25 @@
                                         >Iasidos</persName>.</l>
                             </lg>
                         </lg>
-                        <lg>
-                            <l>nam modo Partheniis amens errabat in antris, rursus in</l>
-                            <l>hirsutas ibat et ille feras; ille etiam Hylaei percussus vulnere</l>
-                            <l>rami saucius Arcadiis rupibus ingemuit. ergo velocem potuit
-                                domuisse</l>
-                            <l>puellam: tantum in amore fides et benefacta valent.</l>
+                        <lg met="elegiaiccouplets">
+                          <lg type="couplet">
+                            <l xml:id="l1.11">nam modo Partheniis amens errabat in antris,</l>
+                            <l xml:id="l1.12">ibat et hirsutas ille videre feras</l>
+                          </lg>
                         </lg>
-                        <lg met="elegiacCouplets">
+              <lg met="elegiaiccouplets">
+                <lg type="couplet">
+                            <l xml:id="l1.13">ille etiam Hylaei percussus vulnere rami</l>
+                            <l xml:id="l1.14">saucius Arcadiis rupibus ingemuit.</l>
+                </lg>
+              </lg>
+              <lg met="elegiaiccouplets">
+                <lg type="couplet">
+                            <l xml:id="l1.15">ergo velocem potuit domuisse puellam:</l>
+                            <l xml:id="l1.16">tantum in amore preces et bene facta valent.</l>
+                </lg>
+              </lg>
+                        <lg met="elegiaiccouplets">
                             <lg type="couplet">
                                 <l xml:id="l1.17">in me tardus Amor non [n]ullas cogitat artes,</l>
                                 <l xml:id="l1.18">nec <app>
@@ -221,7 +232,7 @@
                                     </app> notas, ut prius, ire vias.</l>
                             </lg>
                         </lg>
-                        <lg met="elegaicCouplets">
+                        <lg met="elegiaiccouplets">
                             <lg type="couplet">
                                 <l xml:id="l1.19">
                                     <app>
@@ -238,7 +249,7 @@
                                     </app> piare focis,</l>
                             </lg>
                         </lg>
-                        <lg met="elegaicCouplets">
+                        <lg met="elegiaiccouplets">
                             <lg>
                                 <l xml:id="l1.21">en agedum dominae mentem convertite nostrae,</l>
                                 <l xml:id="l1.22">et facite illa meo <app>
