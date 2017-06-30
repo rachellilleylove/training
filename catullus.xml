@@ -56,9 +56,9 @@
             <witness xml:id="servius"><abbr type="siglum">Servius</abbr></witness>
             <witness xml:id="past"><abbr type="siglum">Pastrengicus</abbr></witness>
             <witness xml:id="V"><abbr type="siglum"> V</abbr> = fons communis codicum OGR 1280?</witness>
-            <witness xml:id="O"><abbr type="siglum"> O</abbr><title>Oxoniensis Bodleianus Canonicianus class. lat. 30</title></witness>
+            <witness xml:id="O"><abbr type="siglum"> O</abbr><title> Oxoniensis Bodleianus Canonicianus class. lat. 30</title></witness>
             <witness xml:id="G"><abbr type="siglum"> G</abbr><title> Parisinus lat. 14137</title></witness>
-            <witness xml:id="R"><abbr type="siglum"> R</abbr><title>Vaticanus Ottobonianus lat. 1829</title></witness>
+            <witness xml:id="R"><abbr type="siglum"> R</abbr><title> Vaticanus Ottobonianus lat. 1829</title></witness>
           </listWit>
         </div>
       </div>
@@ -71,7 +71,7 @@
           
           <l>Cui dono lepidum novum libellum</l>
 <l><app><lem wit="#servius #past #V">arida</lem><witDetail wit="#V">?</witDetail><rdg wit="#O #G #R">arido</rdg></app> 
-  modo <app><lem>pumice</lem><rdg wit="#R" xml:id="rdg-punice">punice</rdg><witDetail wit="R" target="#rdg-punice" type="correction-original">corr. R<hi rend="superscript">2</hi></witDetail></app> expolitum?</l>
+  modo <app><lem>pumice</lem><rdg wit="#R" xml:id="rdg-punice">punice<witDetail wit="R" target="#rdg-punice" type="correction-original">corr. R<hi rend="superscript">2</hi></witDetail></rdg></app> expolitum?</l>
 <l>Corneli, tibi: namque tu solebas</l>
 <l>meas esse aliquid putare nugas</l>
 <l>iam tum, cum ausus es unus Italorum</l>
