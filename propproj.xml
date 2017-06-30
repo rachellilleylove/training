@@ -89,8 +89,21 @@
                   Consensus For <ref target="#book1">Book 1</ref> 
                 </head>
                 <witness xml:id="ω1">
-                  <abbr type="siglum"> ω<hi rend="subscript">1</hi></abbr> consensus of <ref target="#N #A #F #P #V #Vo"> N A F P V Vo from <ref target="#l1.1"> the beginning</ref> to <ref target="#l2.13"> 1.2.13</ref></ref>
-                  <abbr type="siglum"> ω<hi rend="subscript">2</hi></abbr> consensus of <ref target="#N #A #F #D #P #V #Vo"> from <ref target="#l2.14"> 1.2.14</ref> ad <ref target="#l22.10"> end of book 1</ref></ref>
+                  <abbr type="siglum"> ω
+                    <hi rend="subscript">1</hi>
+                  </abbr> consensus of 
+                  <ref target="#N #A #F #P #V #Vo"> N A F P V Vo </ref> from 
+                  <ref target="#l1.1"> the beginning</ref> to 
+                  <ref target="#l2.13"> 1.2.13</ref>
+                </witness>
+                
+                <witness xml:id="ω2">
+                  <abbr type="siglum"> ω
+                    <hi rend="subscript">2</hi>
+                  </abbr> consensus of 
+                  <ref target="#N #A #F #D #P #V #Vo"> N A F P V Vo </ref> from 
+                  <ref target="#l2.14"> 1.2.14</ref> ad 
+                  <ref target="#l22.10"> end of book 1</ref>
                 </witness>
               </listWit>
             </listWit>
