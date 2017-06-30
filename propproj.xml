@@ -149,8 +149,7 @@
                                     </app> suis miserum me cepit ocellis,</l>
                                 <l n="2" xml:id="l1.2">contactum nullis ante cupidinibus</l>
                             </lg>
-                        </lg>
-                        <lg met="elegiaiccouplets">
+                        
                             <lg type="couplet">
                                 <l n="3" xml:id="l1.3">
                                     <app>
@@ -159,8 +158,7 @@
                                     </app> mihi constantis deiecit lumina fastus</l>
                                 <l n="4" xml:id="l1.4">et caput impositis pressit Amor pedibus,</l>
                             </lg>
-                        </lg>
-                        <lg met="elegiaiccouplets">
+                        
                             <lg type="couplet">
                                 <l n="5" xml:id="l1.5">donec me <app>
                                         <lem wit="#A #N #P #Vo">docuit castas</lem>
@@ -173,8 +171,7 @@
                                     </app> odisse puellas</l>
                                 <l n="6" xml:id="l1.6">improbus, et nullo vivere consilio.</l>
                             </lg>
-                        </lg>
-                        <lg met="elegiaiccouplets">
+                       
                             <lg type="couplet">
                                 <l n="7" xml:id="l1.7">ei mihi, iam <app>
                                         <lem wit="#N">toto furor hic non deficit anno,</lem>
@@ -185,8 +182,7 @@
                                 </l>
                                 <l n="8" xml:id="l1.8">cum tamen adversos cogor habere deos.</l>
                             </lg>
-                        </lg>
-                        <lg met="elegiaiccouplets">
+                        
                             <lg type="couplet">
                                 <l n="9" xml:id="l1.9">
                                     <app>
@@ -204,26 +200,22 @@
                                 <l n="10" xml:id="l1.10">saevitiam durae contudit <persName ref="#Iasus"
                                         >Iasidos</persName>.</l>
                             </lg>
-                        </lg>
-                        <lg met="elegiaiccouplets">
+                        
                           <lg type="couplet">
                             <l n="11" xml:id="l1.11">nam modo Partheniis amens errabat in antris,</l>
                             <l n="12" xml:id="l1.12">ibat et hirsutas ille videre feras</l>
                           </lg>
-                        </lg>
-              <lg met="elegiaiccouplets">
+                        
                 <lg type="couplet">
                             <l n="13" xml:id="l1.13">ille etiam Hylaei percussus vulnere rami</l>
                             <l n="14" xml:id="l1.14">saucius Arcadiis rupibus ingemuit.</l>
                 </lg>
-              </lg>
-              <lg met="elegiaiccouplets">
+              
                 <lg type="couplet">
                             <l n="15" xml:id="l1.15">ergo velocem potuit domuisse puellam:</l>
                             <l n="16" xml:id="l1.16">tantum in amore preces et bene facta valent.</l>
                 </lg>
-              </lg>
-                        <lg met="elegiaiccouplets">
+              
                             <lg type="couplet">
                                 <l n="17" xml:id="l1.17">in me tardus Amor non [n]ullas cogitat artes,</l>
                                 <l n="18" xml:id="l1.18">nec <app>
@@ -231,8 +223,6 @@
                                         <rdg wit="#A #F #P"/>
                                     </app> notas, ut prius, ire vias.</l>
                             </lg>
-                        </lg>
-                        <lg met="elegiaiccouplets">
                             <lg type="couplet">
                                 <l n="19" xml:id="l1.19">
                                     <app>
@@ -248,18 +238,16 @@
                                         <rdg source="#Unger">astra</rdg>
                                     </app> piare focis,</l>
                             </lg>
-                        </lg>
-                        <lg met="elegiaiccouplets">
-                            <lg>
+                            <lg type="couplet">
                                 <l n="21" xml:id="l1.21">en agedum dominae mentem convertite nostrae,</l>
                                 <l n="22" xml:id="l1.22">et facite illa meo <app>
                                         <lem>palleat</lem>
                                         <rdg wit="#A #F">placeat</rdg>
                                     </app> ore magis!</l>
                             </lg>
-                        </lg>
-                        <lg>
-                            <lg>
+                       
+               
+                            <lg type="couplet">
                                 <l n="23" xml:id="l1.23">tunc ego crediderim Manes et sidera vobis</l>
                                 <l n="24" xml:id="l1.24">posse <app>
                                         <lem>
@@ -270,9 +258,8 @@
                                         <rdg wit="#V #Vo">cytalinis</rdg>
                                     </app> ducere carminibus.</l>
                             </lg>
-                        </lg>
-                        <lg met="elegaicCouplets">
-                            <lg>
+                        
+                            <lg type="couplet">
                                 <l n="25" xml:id="l1.25">
                                     <app>
                                         <lem source="#Hemsterhuys #Leo">aut</lem>
@@ -286,14 +273,12 @@
                                     </app> vos, qui sero lapsum revocatis, amici,</l>
                                 <l n="26" xml:id="l1.26">quaerite non sani pectoris auxilia.</l>
                             </lg>
-                        </lg>
-                        <lg met="elegaicCouplets">
-                            <lg>
+                        
+                            <lg type="couplet">
                                 <l n="27" xml:id="l1.27">fortiter et ferrum saevos patiemur et ignis,</l>
                                 <l n="28" xml:id="l1.28">sit modo libertas quae velit ira loqui.</l>
                             </lg>
-                        </lg>
-                        <lg met="elegiacCouplets">
+                        
                             <lg type="couplet">
                                 <l n="29" xml:id="l1.29">
                                     <app>
@@ -311,8 +296,7 @@
                                     </app> per undas,</l>
                                 <l n="30" xml:id="l1.30">qua non ulla meum femina norit iter:</l>
                             </lg>
-                        </lg>
-                        <lg met="elegiacCouplets">
+                        
                             <lg type="couplet">
                                 <l n="31" xml:id="l1.31">vos remanete, quibus <app>
                                         <lem wit="#N #A #P #V #Vo">facili</lem>
@@ -327,8 +311,7 @@
                                         <rdg source="#Richards">ut</rdg>
                                     </app> in tuto semper amore pares. </l>
                             </lg>
-                        </lg>
-                        <lg met="elegiacCouplets">
+                       
                             <lg type="couplet">
                                 <l n="33" xml:id="l1.33">in me <app>
                                         <lem>nostra</lem>
@@ -337,8 +320,7 @@
                                     </app> Venus noctes exercet amaras,</l>
                                 <l n="34" xml:id="l1.34">et nullo vacuus tempore defit Amor.</l>
                             </lg>
-                        </lg>
-                        <lg met="elegiacCouplets">
+                        
                             <lg type="couplet">
                                 <l n="35" xml:id="l1.35">hoc, moneo, vitate malum: sua quemque moretur</l>
                                 <l n="36" xml:id="l1.36">cura, neque assueto mutet amore <app>
@@ -346,8 +328,7 @@
                                         <rdg source="#Otto #Housman">torum</rdg>
                                     </app>.</l>
                             </lg>
-                        </lg>
-                        <lg met="elegiacCouplets">
+                        
                             <lg type="couplet">
                                 <l n="37" xml:id="l1.37">quod si quis monitis tardas adverterit aures,</l>
                                 <l n="38" xml:id="l1.38">heu referet quanto verba dolore mea!</l>
