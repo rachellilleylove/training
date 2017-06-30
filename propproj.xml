@@ -125,7 +125,9 @@
             </listWit>
             <!-- will address this later  -->
           </listWit>
+        </div> 
           <div type="section"  xml:id="editions">
+            <head>Sources</head>
             <listBibl>
               <listBibl>
                 <head>Complete Editions</head>
@@ -199,8 +201,8 @@
             </listBibl>
             
           </div>
-        </div>
-      </div>
+        
+    </div>
     </front>
     <body>
       <div type="edition" xml:id="edition-text" xml:space="preserve">
