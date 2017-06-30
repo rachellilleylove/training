@@ -55,6 +55,7 @@
           from the @xml:id's assigned to the various items in the
           bibliography). The list of sigla may be generated automatically. -->
           <listWit>
+          <listWit>
             <listWit>
               <head>Codices</head>
            
@@ -84,11 +85,14 @@
                 <abbr type="siglum"> M </abbr> codex Parisinus Bibl. Nat. lat.8233</witness>
               <witness xml:id="U">
                 <abbr type="siglum"> U</abbr> codex Vaticanus Vrbinas lat. 641</witness>
-              <listWit>
-                <head>
+            </listWit>
+
+             <listWit> 
+               <head>
                   Consensus For <ref target="#book1">Book 1</ref> 
                 </head>
-                <witness xml:id="ω1">
+                
+                  <witness xml:id="ω1">
                   <abbr type="siglum"> ω
                     <hi rend="subscript">1</hi>
                   </abbr> consensus of 
@@ -96,7 +100,6 @@
                   <ref target="#l1.1"> the beginning</ref> to 
                   <ref target="#l2.13"> 1.2.13</ref>
                 </witness>
-                
                 <witness xml:id="ω2">
                   <abbr type="siglum"> ω
                     <hi rend="subscript">2</hi>
@@ -105,12 +108,9 @@
                   <ref target="#l2.14"> 1.2.14</ref> ad 
                   <ref target="#l22.10"> end of book 1</ref>
                 </witness>
-              </listWit>
+                </listWit>
             </listWit>
-            
-            
-            <listWit>
-              
+              <listWit>
               <!-- I'm not sure where this information comes from; it's not fedeli -->
               <head>Codices no longer extant</head>
               <witness xml:id="Ω" n="Ω">
@@ -125,6 +125,9 @@
             </listWit>
             <!-- will address this later  -->
           </listWit>
+          <div type="section" subtype="sources" xml:id="sources">
+            
+          </div>
         </div>
       </div>
     </front>
