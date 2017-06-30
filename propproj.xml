@@ -410,14 +410,18 @@
                         </lg>
               
               </div>
-          </div>
-        </div>
-        <div type="textpart" n="2" xml:id="poem2">
+          <div type="textpart" n="2" xml:id="poem2">
 
               <head>Poem 2</head>
           <!--Each new major section (e.g., book, volume) has a new <div>.-->
-        
+        </div>
+        </div>
       </div>
+     
+  
+        
+   
+        
     </body>
     <back>
       <!--The content of the back matter will be determined in consultation between
