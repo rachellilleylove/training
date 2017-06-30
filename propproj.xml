@@ -119,9 +119,8 @@
       <div type="edition" xml:id="edition-text" xml:space="preserve">
         <div type="textpart" n="1" xml:id="part1">
           <div type="textpart" subtype="book" n="1" xml:id="book1">
-            <head>
-              Book 1
-            </head>
+           
+          
             <div type="textpart" subtype="Poem" n="1" xml:id="book1poem1">
           <head>Poem 1</head>
           <lg met="elegiacCouplets">
