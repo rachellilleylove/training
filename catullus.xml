@@ -70,17 +70,17 @@
           <!--Text goes here, according to the conventions laid out elsewhere in these guidelines.-->
           
           <l>Cui dono lepidum novum libellum</l>
-<l><app><lem wit="#servius #past #V">arida</lem><witDetail wit="#V">?</witDetail><rdg wit="#O #G #R">arido</rdg></app> 
-  modo <app><lem>pumice</lem><rdg wit="#R" xml:id="rdg-punice">punice<witDetail wit="R" target="#rdg-punice" type="correction-original">corr. R<hi rend="superscript">2</hi></witDetail></rdg></app> expolitum?</l>
+<l>arida modo pumice expolitum?</l>
 <l>Corneli, tibi: namque tu solebas</l>
 <l>meas esse aliquid putare nugas</l>
 <l>iam tum, cum ausus es unus Italorum</l>
 <l>omne aevum tribue explicare cartis</l>
 <l>doctis, Iuppiter, et laboriosis.</l>
 <l>quare habe tibi quidquid hoc libelli.</l>
-<l>qualecumque quod, <supplied reason= "lost">&lt;o></supplied> patrona virgo,</l>
+<l>qualecumque quod, patrona virgo,
 <l>plus uno maneat perenne saeclo.</l>
 
+<!-- text of the thompson app crit -->
 <ab>1 2 arida Servius, Pastrengicus, V?, arido OGR  punice R corr. R²  5 tum ε: tamen V
 es ε: est V  6 evum (euū) O, Pastrengicus: eum GR, corr R²  8 habe tibi η: tibi habe V
 libelli] al. mei G¹R²  9 &lt;o> add. θ, est (ē) Statius  quidem 1472 (qualecumque quidem
